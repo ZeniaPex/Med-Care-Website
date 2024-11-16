@@ -81,9 +81,16 @@
   z-index: 0;
   overflow: hidden;
   position: relative;
+<<<<<<< HEAD
   -webkit-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none; }
+=======
+  /* -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;  */
+}
+>>>>>>> a45f6d698e8e342dc769fcaa24fa3837e0253da6
   .twentytwenty-container img {
     max-width: 100%;
     position: absolute;
